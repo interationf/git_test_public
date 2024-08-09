@@ -1,2 +1,3 @@
 Änderung für git add .
 Einige Befehle: git status(status anfragen) git add (von working-area zu den commit-area ) git push(von commmit zu den remote)
+test für git pull

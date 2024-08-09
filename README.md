@@ -39,3 +39,5 @@ Im Vscode:1.1 git init, um den aktuelle file eine git im Local zu speichern, dam
 1.2 git add (Hinzufügen alles Changes)
 seconde test to the github
 ++git pushgit
+++ Problem beim git push, wenn remote was geändert, und locak auch was geändert, dann will jetzt die Änderung auf local to remote:
+1.git status, um zu überpüfen, welche

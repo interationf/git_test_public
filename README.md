@@ -33,3 +33,7 @@ git commit -m "initial commit"
 Push - I pushed code as version1 you can use any name for your branch
 
 git push origin HEAD:Version1
+
+git direkt von vscode und im gitbash sind anderes.
+Im Vscode:1.1 git init, um den aktuelle file eine git im Local zu speichern, damit im local den Changes auch speichern kann
+1.2 git add (Hinzufügen alles Changes)

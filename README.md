@@ -38,3 +38,4 @@ git direkt von vscode und im gitbash sind anderes.
 Im Vscode:1.1 git init, um den aktuelle file eine git im Local zu speichern, damit im local den Changes auch speichern kann
 1.2 git add (Hinzufügen alles Changes)
 seconde test to the github
+++git pushgit
